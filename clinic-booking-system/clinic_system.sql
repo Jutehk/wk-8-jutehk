@@ -1,6 +1,8 @@
--- ----------------------------------------
---  Clinic Booking System Database Schema
--- ----------------------------------------
+-- Clinic Booking System SQL Schema
+-- Author: Juliana 
+--Email: julianandunge54@gmail.com
+-- Date: 12/05/2025
+
 
 -- Drop tables if they exist (reverse dependency order)
 DROP TABLE IF EXISTS Appointments, DoctorSpecializations, Specializations, Patients, Doctors;
